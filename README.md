@@ -37,11 +37,11 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/RainbowLine.gif" alt="Rainbow Separator" width="100%"/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 
 <br>
 
-<h3><img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/icons/skills.png" alt="Skills Icon" width="24"/> Habilidades Técnicas</h3>
+<h3><img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" alt="Skills Icon" width="24"/> Habilidades Técnicas</h3>
 
 <table style="width:100%; border:none;">
   <tr style="border:none;">
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/RainbowLine.gif" alt="Rainbow Separator" width="100%"/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 
 <br>
 
@@ -74,7 +74,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO-DE-GITHUB&theme=tokyonight&row=1&column=7&no-bg=true" alt="Trofeos de GitHub"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/RainbowLine.gif" alt="Rainbow Separator" width="100%"/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 
 <br>
 

@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td style="width:40%; vertical-align:top; border:none; text-align:right;">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coder Illustration" width="300" style="margin-left: 20px;"/>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VxZ2ZlMWsxdzg1bjVqb3N2eWlxeWdhMmI1bHkxYTF3NDZlbjZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="Coder Illustration" width="300" style="margin-left: 20px;"/>
     </td>
   </tr>
 </table>

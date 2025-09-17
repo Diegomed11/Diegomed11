@@ -14,7 +14,7 @@
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 
-<h1 id="top" align="center">Holaa, soy Diego Medina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Holaa, soy Diego Medina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 

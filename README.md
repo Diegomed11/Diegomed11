@@ -12,11 +12,11 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/RainbowLine.gif" alt="Rainbow Separator" width="100%"/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 
 <h3 align="center">Holaa, soy Diego Medina 👋</h3>
 
-<img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/RainbowLine.gif" alt="Rainbow Separator" width="100%"/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 
 <br>
 

@@ -51,15 +51,15 @@
     </td>
     <td style="width:25%; vertical-align:top; border:none;">
       <b>Bases de Datos</b><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Bases de Datos"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de Datos"/>
     </td>
     <td style="width:25%; vertical-align:top; border:none;">
       <b>Data Science & ML</b><br>
-      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,jupyter,powerbi" alt="Data Science & ML"/>
+      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter,powerbi" alt="Data Science & ML"/>
     </td>
     <td style="width:25%; vertical-align:top; border:none;">
       <b>Herramientas & Otros</b><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,latex" alt="Herramientas & Otros"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,latex" alt="Herramientas & Otros"/>
     </td>
   </tr>
 </table>

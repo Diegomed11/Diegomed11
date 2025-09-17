@@ -46,7 +46,7 @@
 <table style="width:100%; border:none;">
   <tr style="border:none;">
     <td style="width:25%; vertical-align:top; border:none;">
-      <b>Lenguajes</b><br>
+      <b><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif" alt="Skills Icon" width="20"/>Lenguajes</b><br>
       <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp" alt="Lenguajes"/>
     </td>
     <td style="width:25%; vertical-align:top; border:none;">

@@ -1,15 +1,38 @@
-# ¡Hi! 👋 Soy Diego Medina
-<!--
-**Diegomed11/Diegomed11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtaDVwbnFmM29kZ241a3dybWR1ZGRjZzBweGZlYWZkZ3doOHdoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **¡Hola! Soy Diego Medina Medina **
+
+Soy un estudiante de **Ciencia de Datos** en la **Escuela Superior de Cómputo (ESCOM - IPN)**, apasionado por el Machine Learning, la inteligencia artificial y la resolución de problemas a través de los datos.
+
+- 🔭 Actualmente estoy construyendo mi portafolio de proyectos en Ciencia de Datos.
+- 🌱 Aprendiendo y mejorando mis habilidades en Python y R.
+
+
+---
+## ## 🛠️ Mis Habilidades Técnicas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,sklearn,c,cpp,java,mysql,git,r,jupyter" />
+  </a>
+</p>
+
+---
+## ## 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+## ## 🚀 Mis Proyectos
+
+Aquí puedes encontrar algunos de los proyectos en los que he trabajado.
+
+- **[Sistema de Recomendación de Películas](URL_A_TU_REPOSITORIO_DEL_PROYECTO_DE_PELICULAS)**
+  - Un recomendador de contenido que obtiene datos de la API de TMDb y usa `scikit-learn` para encontrar películas similares.

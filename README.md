@@ -34,5 +34,5 @@ Soy un estudiante de **Ciencia de Datos** en la **Escuela Superior de Cómputo (
 
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado.
 
-- **[Sistema de Recomendación de Películas](URL_A_TU_REPOSITORIO_DEL_PROYECTO_DE_PELICULAS)**
+- **[Sistema de Recomendación de Películas] https://github.com/Diegomed11/Movie-Recommender-System **
   - Un recomendador de contenido que obtiene datos de la API de TMDb y usa `scikit-learn` para encontrar películas similares.

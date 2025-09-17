@@ -68,16 +68,6 @@
 
 <br>
 
-<h3><img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/icons/stats.png" alt="Stats Icon" width="24"/> Mis Estadísticas</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="Estadísticas de GitHub"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO-DE-GITHUB&theme=tokyonight&row=1&column=7&no-bg=true" alt="Trofeos de GitHub"/>
-</p>
-
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
-
-<br>
-
 <h3><img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/icons/snake.png" alt="Snake Icon" width="24"/> Juego de la Serpiente de Contribuciones</h3>
 <p align="center">
   <img src="https://github.com/AhmedNassar7/AhmedNassar7/blob/output/github-contribution-grid-snake.svg" alt="Snake game" width="90%"/>

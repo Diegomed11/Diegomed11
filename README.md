@@ -54,10 +54,6 @@
       <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de Datos"/>
     </td>
     <td style="width:25%; vertical-align:top; border:none;">
-      <b>Data Science & ML</b><br>
-      <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter,powerbi" alt="Data Science & ML"/>
-    </td>
-    <td style="width:25%; vertical-align:top; border:none;">
       <b>Herramientas & Otros</b><br>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,latex" alt="Herramientas & Otros"/>
     </td>

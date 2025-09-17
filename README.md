@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+[Tu+Nombre];Estudiante+de+Ciencia+de+Datos;Apasionado+por+el+Machine+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Diego+Medina;Estudiante+de+Ciencia+de+Datos;Apasionado+por+el+Machine+Learning" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -65,6 +65,4 @@
 
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO-DE-GITHUB&label=Vistas+del+Perfil&color=0e75b6&style=flat" alt="contador de visitas" /> 
-</p>
+

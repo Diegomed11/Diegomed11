@@ -23,7 +23,7 @@
 <table style="width:100%; border:none;">
   <tr style="border:none;">
     <td style="width:60%; vertical-align:top; border:none;">
-      <h3><img src="https://raw.githubusercontent.com/AhmedNassar7/AhmedNassar7/main/assets/icons/about.png" alt="About Me Icon" width="24"/> Sobre Mí</h3>
+      <h3><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="About Me Icon" width="24"/> Sobre Mí</h3>
       <ul>
         <li>🔭 Actualmente trabajando en mi portafolio como <b>Científico de Datos</b>.</li>
         <li>🌱 Estudiante de <b>Ciencia de Datos</b> en la <b>ESCOM - IPN</b>, con foco en <b>Machine Learning</b> e <b>Inteligencia Artificial</b>.</li>

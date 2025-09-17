@@ -22,14 +22,7 @@ Soy un estudiante de **Ciencia de Datos** en la **Escuela Superior de Cómputo (
 </p>
 
 ---
-## ## 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
 ## ## 🚀 Mis Proyectos
 
 Aquí puedes encontrar algunos de los proyectos en los que he trabajado.

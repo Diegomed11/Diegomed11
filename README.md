@@ -48,7 +48,7 @@ Languages
 </h3>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,r,cpp,c,java" />
+<img src="https://skillicons.dev/icons?i=py,r,cpp,c,java,go" />
 </a>
 
 <h3>
@@ -60,7 +60,7 @@ Web Development
 </h3>
 <h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </a>
 
 🗄️ Databases

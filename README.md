@@ -48,7 +48,7 @@ Languages
 </h3>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,r,cpp,c,java,go" />
+<img src="https://skillicons.dev/icons?i=py,go,cpp,c,java" />
 </a>
 
 <h3>

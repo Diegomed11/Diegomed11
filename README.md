@@ -2,13 +2,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="Welcome Banner" width="800"/>
 </p>
 
-<p align="center">
 
-
-<a href="mailto:diegomad473@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
 
 <img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" alt="Rainbow Separator" width="100%"/>
 

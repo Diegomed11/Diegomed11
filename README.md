@@ -20,7 +20,7 @@
 
 <img align="right" width="310" height="310" alt="Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VxZ2ZlMWsxdzg1bjVqb3N2eWlxeWdhMmI1bHkxYTF3NDZlbjZ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif">
 
-🔭 Currently building my Data Science portfolio.
+🔭 Currently building my Data Science portfolio
 
 🌱 Data Science Student at ESCOM IPN.
 

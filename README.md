@@ -32,9 +32,17 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Education & Training</h3>
+      <h3>Education & Certifications</h3>
       <ul>
         <li><b>B.S. in Data Science:</b> ESCOM - IPN. Focused on Machine Learning, Natural Language Processing (NLP), and Big Data processing.</li>
+       <li>
+  <b>AWS Certified Solutions Architect – Associate</b> 
+  <a href="https://www.credly.com/badges/90e391f5-0055-4282-a004-51f514b60182" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-orange?style=flat&logo=amazon-aws" alt="AWS SAA Badge">
+  </a>
+  <br>
+  Validated expertise in designing distributed, high-availability, and cost-effective cloud systems on AWS.
+</li>
         <li><b>Samsung Innovation Campus:</b> Earned the <i>Advanced Leadership Micro-credential</i> backed by CENEVAL & Samsung, highlighting core competencies in technology, innovation, and strategic leadership.</li>
       </ul>
     </td>
@@ -80,7 +88,7 @@ Web Development
 
 <h3>⚙️ Platforms & Tools</h3>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,latex,windows,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,latex,windows,linux,aws" />
 </a>
 
 <br><br><br>

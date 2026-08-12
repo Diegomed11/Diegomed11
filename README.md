@@ -13,8 +13,8 @@
   
   <blockquote>
     <p align="center">
-      <i><b>Data Science Undergraduate at ESCOM-IPN | Data Analyst | Open Source Contributor</b></i><br><br>
-      Specialized in building scalable data architectures, efficient ETL pipelines, and robust machine learning models.<br>I leverage my analytical background to create impactful, data-driven solutions and secure backend ecosystems.
+<i><b>Data Science Undergraduate at ESCOM-IPN | Backend & Data Analyst | AWS Certified Solutions Architect</b></i><br><br>
+Focused on building scalable data architectures, efficient ETL pipelines, and robust microservices.<br>I leverage my analytical background and cloud expertise to create impactful, data-driven solutions and secure backend ecosystems.
     </p>
   </blockquote>
 </div>
